@@ -3,7 +3,7 @@ name: CI/CD for Online Shop
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
